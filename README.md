@@ -14,7 +14,7 @@ C# personal or team homwork display
    由大獎至小獎，號碼由右至左比對，如果中獎，顯示「恭喜您獲得X獎XXX元」。
    如果沒中，顯示沒中獎，使用者輸入字母「Q」，結束程式。
    Uniform Invoice Prize Checking: Preparation of winning rules (including the comparison of the entered invoice number with the winning numbers, specifying the reward based on the matched digits), prompting the user to input the invoice number, and checking the input format for correctness (8 digits, all numeric). Starting from the grand prize to the smaller prizes, the numbers are checked from right to left. If there is a match, display "Congratulations! You have won the X prize, NT$XXX." If not, display "No winning." The user can input the letter "Q" to end the program.
-2. 1A2B(自己猜)：利用亂數產生一組四碼的正確答案 • 四碼皆為小於等於 9 的整數（四碼不可重複）。
+2. 1A2B(自己猜)：利用亂數產生1組四碼的正確答案 • 四碼皆為小於等於 9 的整數（四碼不可重複）。
    提示使用者輸入答案，電腦檢查答案，並顯示XAYB（X 表示位置正確的數的個數，Y 表示數字正確而位置不對的數的個數）。
    使用者輸入正解或字母「Q」，結束遊戲。
    使用者輸入「AAAA」，電腦需顯示正解，檢核使用者輸入資料是否為4碼、皆為整數且不重複。

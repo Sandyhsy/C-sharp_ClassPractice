@@ -20,10 +20,10 @@ C# personal or team homwork display
    使用者輸入「AAAA」，電腦需顯示正解，檢核使用者輸入資料是否為4碼、皆為整數且不重複。
    <br>1A2B (Guessing Game): Generating a correct answer of four digits using random numbers. All four digits are integers less than or equal to 9 and are unique. Prompting the user to input their guess, the computer checks the answer and displays XAYB (where X represents the number of correctly positioned digits, and Y represents the number of digits that are correct but in the wrong position). The user can input the correct answer or the letter "Q" to end the game. If the user inputs "AAAA," the computer should display the correct answer and check if the user input is a 4-digit integer with unique digits.
 3. Hangman：從老師所提供之 wordLibrary 中隨機挑選一個單子來當答案，需要字數提示。
-   <br>讓使用者猜字母，依照使用者猜的字母分兩種情境：
+   讓使用者猜字母，依照使用者猜的字母分兩種情境：
    (1) 猜對的情境：顯示猜對的字母，若全部的字都猜對，則遊戲結束;反之則回到步驟 3 讓使用 者繼續猜字母。
    (2) 猜錯的情境：依照猜錯的次數配合專案範例的 DrawHangman 來畫出 「上吊的人」，累積 5 次錯誤時則遊戲結束。
-   Hangman: Randomly selecting a word from the provided word library with a hint about its length. Allowing the user to guess letters, two scenarios arise based on the user's input:
+   <br>Hangman: Randomly selecting a word from the provided word library with a hint about its length. Allowing the user to guess letters, two scenarios arise based on the user's input:
    (1) Correct guess: Displaying the correctly guessed letters. If all letters are guessed correctly, the game ends. Otherwise, return to step 3 for the user to continue guessing.
    (2) Incorrect guess: Drawing the "hanged man" based on the number of incorrect guesses, following the example in the DrawHangman project. The game ends when there are 5 accumulated incorrect guesses.
    

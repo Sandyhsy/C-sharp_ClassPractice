@@ -1,5 +1,5 @@
 # C-sharp_ClassPractice
-C# Personal or team work display
+C# Personal Homework and Teamwork display
 
 ### Personal Homework 1（HW-1.zip）
    1. BMI Calculator: This application prompts the user to input height and weight, reads the provided values, calculates the user's Body Mass Index, and determines whether the user is underweight, normal weight, or overweight.

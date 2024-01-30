@@ -2,21 +2,19 @@
 C# Personal or team work display
 
 ### Personal Homework 1（HW-1.zip）
-   <br>1. BMI Calculator: This application prompts the user to input height and weight, reads the provided values, calculates the user's Body Mass Index, and determines whether the user is underweight, normal weight, or overweight.
-   <br>2. Christmas Tree Generator: This program prompts the user to input the size of the tree, where the entered size represents the height of each triangle. The tree is composed of two triangles and a rectangular trunk.
-   <br>3. ID Validation Program: This utility prompts the user to input their national identification number, reads the provided value, and assesses the legitimacy of the entered ID, determining whether it is valid or invalid.
+   1. BMI Calculator: This application prompts the user to input height and weight, reads the provided values, calculates the user's Body Mass Index, and determines whether the user is underweight, normal weight, or overweight.
+   2. Christmas Tree Generator: This program prompts the user to input the size of the tree, where the entered size represents the height of each triangle. The tree is composed of two triangles and a rectangular trunk.
+   3. ID Validation Program: This utility prompts the user to input their national identification number, reads the provided value, and assesses the legitimacy of the entered ID, determining whether it is valid or invalid.
 
 ### Personal Homework 2（HW-2.zip）
-   <br>1. Uniform Invoice Prize Checking: Preparation of winning rules (including the comparison of the entered invoice number with the winning numbers, specifying the reward based on the matched digits), prompting the user to input the invoice number, and checking the input format for correctness (8 digits, all numeric). The numbers are checked from right to left, starting from the grand prize to the smaller prizes. If there is a match, display "Congratulations! You have won the X prize, NT$XXX." If not, display "No winning." The user can input the letter "Q" to end the program.
-
-   <br>2. 1A2B (Guessing Game): Generating a correct answer of four digits using random numbers. All four digits are integers less than or equal to 9 and are unique. Prompting the user to input their guess, the computer checks the answer and displays XAYB (where X represents the number of correctly positioned digits, and Y represents the number of correct digits in the wrong position). The user can input the correct answer or the letter "Q" to end the game. If the user inputs "AAAA," the computer should display the correct answer and check if the user input is a 4-digit integer with unique digits.
-
-   <br>3. Hangman: Randomly selecting a word from the provided word library with a hint about its length. Allowing the user to guess letters, two scenarios arise based on the user's input:
+   1. Uniform Invoice Prize Checking: Preparation of winning rules (including the comparison of the entered invoice number with the winning numbers, specifying the reward based on the matched digits), prompting the user to input the invoice number, and checking the input format for correctness (8 digits, all numeric). The numbers are checked from right to left, starting from the grand prize to the smaller prizes. If there is a match, display "Congratulations! You have won the X prize, NT$XXX." If not, display "No winning." The user can input the letter "Q" to end the program.
+   2. 1A2B (Guessing Game): Generating a correct answer of four digits using random numbers. All four digits are integers less than or equal to 9 and are unique. Prompting the user to input their guess, the computer checks the answer and displays XAYB (where X represents the number of correctly positioned digits, and Y represents the number of correct digits in the wrong position). The user can input the correct answer or the letter "Q" to end the game. If the user inputs "AAAA," the computer should display the correct answer and check if the user input is a 4-digit integer with unique digits.
+   3. Hangman: Randomly select a word from the provided word library with a hint about its length. Allowing the user to guess letters, two scenarios arise based on the user's input:
    (1) Correct guess: Displaying the correctly guessed letters. If all letters are guessed correctly, the game ends. If not, please return to step 3 for the user to continue guessing.
    (2) Incorrect guess: Drawing the "hanged man" based on the number of incorrect guesses, following the example in the DrawHangman project. The game ends when there are 5 accumulated incorrect guesses.
 
 ### Team Homework 1（TW-1.zip）
-<br>Developing a Windows Form application for querying book information is proposed, enabling users to search based on book title, purchase date, book category, and other criteria. The application supports functionalities such as adding, deleting, and modifying records. Additionally, it facilitates the tracking of the borrowing status of books and maintains a record of the borrowers. My primary responsibilities include managing the SQL component, code validation, and presenting the demonstration.
+   Developing a Windows Form application for querying book information is proposed, enabling users to search based on book title, purchase date, book category, and other criteria. The application supports functionalities such as adding, deleting, and modifying records. Additionally, it facilitates the tracking of the borrowing status of books and maintains a record of the borrowers. My primary responsibilities include managing the SQL component, code validation, and presenting the demonstration.
 
 
 ### 作業1（HW-1.zip）
